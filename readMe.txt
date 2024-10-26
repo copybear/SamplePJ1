@@ -59,3 +59,6 @@ Emacs Lisp入門を読んでみる
   (fizz_bazz 12)
   (fizz_bazz 4)
 #+end_src
+
+ここからGITのブランチを試す
+あ、でもその前にgitignoreを確認。

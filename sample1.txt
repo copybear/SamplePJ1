@@ -1,0 +1,3 @@
+;; fizz bazz function
+(setq sample 5)
+(defun test(arg)
